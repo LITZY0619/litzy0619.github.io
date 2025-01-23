@@ -29,11 +29,14 @@ I am a second-year Ph.D. Student in Computer Science at the University of Maryla
 
 # 📝 Publications 
 
-- [Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free](https://arxiv.org/abs/2410.10814), **Z. Li**, T. Zhou, **ArXiv**
+- [Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free](https://arxiv.org/abs/2410.10814), **Z. Li**, T. Zhou, **ICLR'25**
   - Mixture-of-Experts (MoE) language models can serve as powerful, training-free embedding generators by leveraging the complementarity of routing weights and hidden states, achieving superior performance across diverse embedding tasks.
 
-- [Many-Objective Multi-Solution Transport](https://arxiv.org/abs/2403.04099), **Z. Li**, T. Li, V. Smith, J. Bilmes, T. Zhou, **ArXiv**
+- [Many-Objective Multi-Solution Transport](https://arxiv.org/abs/2403.04099), **Z. Li**, T. Li, V. Smith, J. Bilmes, T. Zhou, **ICLR'25**
   - Explores a framework that finds multiple diverse solutions in the Pareto front of many objectives.
+ 
+- Sparser Mixture-of-Adapters with Cross-Layer Generalization, **Z. Li**, T. Zhou, **NAACL'25**
+  - Improves efficiency and generalization of large language models by using a unified adapter pool shared across layers.
 
 - [SIMPLE: Specialized Model-Sample Matching for Domain Generalization](https://seqml.github.io/simple/), **Z. Li**, K. Ren, X. Jiang, Y. Shen, H. Zhang, D. Li, **ICLR'23**
   - An alternative direction for domain generalization via efficiently leveraging a pool of pretrained models without fine-tuning.
