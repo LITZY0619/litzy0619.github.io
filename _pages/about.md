@@ -22,14 +22,14 @@ I am a second-year Ph.D. Student in Computer Science at the University of Maryla
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 **One first-author paper has been accepted to the NAACL 2025 Main Conference**.
-- *2025.01*: &nbsp;🎉🎉 **Two first-author papers have been accepted by ICLR 2025**.
+- *2025.01*: &nbsp;🎉🎉 **Two first-author papers have been accepted by ICLR 2025, including one Oral**.
 - *2024.10*: &nbsp;**New on arXiv**: "Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free" is now available on arXiv.
 - *2024.03*: &nbsp;**New on arXiv**: "Many-Objective Multi-Solution Transport" is now available on arXiv.
 - *2023.08*: &nbsp;**Entering University of Maryland (UMD)** as a Ph.D. Candidate in Computer Science.
 
 # 📝 Publications 
 
-- [Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free](https://arxiv.org/abs/2410.10814), **Z. Li**, T. Zhou, **ICLR'25**
+- [Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free](https://arxiv.org/abs/2410.10814), **Z. Li**, T. Zhou, **ICLR'25 (Oral, 1.8%)**
   - Mixture-of-Experts (MoE) language models can serve as powerful, training-free embedding generators by leveraging the complementarity of routing weights and hidden states, achieving superior performance across diverse embedding tasks.
 
 - [Many-Objective Multi-Solution Transport](https://arxiv.org/abs/2403.04099), **Z. Li**, T. Li, V. Smith, J. Bilmes, T. Zhou, **ICLR'25**
