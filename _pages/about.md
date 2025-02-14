@@ -19,6 +19,8 @@ redirect_from:
 
 I am a second-year Ph.D. Student in Computer Science at the University of Maryland advised by [Prof. Tianyi Zhou](https://tianyizhou.github.io/cv/). My research focuses on pioneering efficient machine learning methods, encompassing computer vision, natural language processing, and multi-modality. I am particularly passionate about developing adaptive and personalized machine learning models. Before pursuing my Ph.D., I earned my M.S. and B.Eng in Computer Science from ShanghaiTech University, where I delved into research areas such as mixture of experts, domain generalization, and ensemble learning. 
 
+Actively looking for 2025 summer research internship opportunities!
+
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 **One first-author paper has been accepted to the NAACL 2025 Main Conference**.
@@ -44,7 +46,7 @@ I am a second-year Ph.D. Student in Computer Science at the University of Maryla
 - [Towards Inference Efficient Deep Ensemble Learning](https://seqml.github.io/irene/), **Z. Li**, K. Ren, Y. Yang, X. Jiang, Y. Yang, D. Li, **AAAI'23**
   - An inference efficient ensemble learning method to simultaneously optimize for both model effectiveness and efficiency in ensemble learning.
  
-- [Protecting the Future: Neonatal Seizure Detection with Spatial-Temporal Modeling](https://seqml.github.io/statenet/), **Z. Li**$^\dagger$, Y. Fang $^\dagger$, Y. Li, K. Ren, Y. Wang, X. Luo, J. Duan, C. Huang, D. Li, L. Qiu, **SMC'23**
+- [Protecting the Future: Neonatal Seizure Detection with Spatial-Temporal Modeling](https://seqml.github.io/statenet/), **Z. Li** $^\dagger$, Y. Fang $^\dagger$, Y. Li, K. Ren, Y. Wang, X. Luo, J. Duan, C. Huang, D. Li, L. Qiu, **SMC'23**
   - Utilizing spatial-temporal modeling for neonatal seizure detection.
 
 - [Why does the president tweet this? Discovering reasons and contexts for politicians’ tweets from news articles](https://www.sciencedirect.com/science/article/pii/S0306457322000218), **Z. Li**, H. Hu, H. Wang, C. Lu, H. Zhang, K. Zhang, **Information Processing & Management 2022**
