@@ -23,6 +23,7 @@ Actively looking for 2025 summer research internship opportunities!
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 **New on arXiv**: "[R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts[(https://arxiv.org/pdf/2502.20395)" is now available on arXiv.
 - *2025.01*: &nbsp;🎉🎉 **One first-author paper has been accepted to the NAACL 2025 Main Conference**.
 - *2025.01*: &nbsp;🎉🎉 **Two first-author papers have been accepted by ICLR 2025, including one Oral**.
 - *2024.10*: &nbsp;**New on arXiv**: "Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free" is now available on arXiv.
