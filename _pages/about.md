@@ -55,7 +55,7 @@ Actively looking for 2025 summer research internship opportunities!
 
 
 # 🎖 Honors and Awards
-- *2023*: Dean’s Fellowship, University of Maryland.
+- *2023,2024*: Dean’s Fellowship, University of Maryland.
 - *2022*: Award of Excellence for Stars of Tomorrow Internship Program, Microsoft Research Asia.
 
 # 📖 Educations
