@@ -38,7 +38,7 @@ Actively looking for 2025 summer research internship opportunities!
 - [Many-Objective Multi-Solution Transport](https://arxiv.org/abs/2403.04099), **Z. Li**, T. Li, V. Smith, J. Bilmes, T. Zhou, **ICLR'25**
   - Explores a framework that finds multiple diverse solutions in the Pareto front of many objectives.
  
-- Sparser Mixture-of-Adapters with Cross-Layer Generalization, **Z. Li**, T. Zhou, **NAACL'25**
+- [Sparser Mixture-of-Adapters with Cross-Layer Generalization](https://openreview.net/pdf?id=PFGTa6OVBI), **Z. Li**, T. Zhou, **NAACL'25**
   - Improves efficiency and generalization of large language models by using a unified adapter pool shared across layers.
 
 - [SIMPLE: Specialized Model-Sample Matching for Domain Generalization](https://seqml.github.io/simple/), **Z. Li**, K. Ren, X. Jiang, Y. Shen, H. Zhang, D. Li, **ICLR'23**
