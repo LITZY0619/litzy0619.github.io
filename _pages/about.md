@@ -21,6 +21,7 @@ I am a second-year Ph.D. Student in Computer Science at the University of Maryla
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 **One paper has been accepted to the COLM 2025**.
 - *2025.01*: &nbsp;🎉🎉 **One paper has been accepted to the ICML 2025**.
 - *2025.02*: &nbsp;**New on arXiv**: "[R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts](https://arxiv.org/pdf/2502.20395)" is now available on arXiv.
 - *2025.01*: &nbsp;🎉🎉 **One first-author paper has been accepted to the NAACL 2025 Main Conference**.
@@ -42,6 +43,7 @@ I am a second-year Ph.D. Student in Computer Science at the University of Maryla
  
 - [R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts](https://arxiv.org/pdf/2502.20395), Z. Li, **Z. Li**, T. Zhou, **ICML'25**
   - Proposes R2-T2, a test-time re-routing method that dynamically optimizes routing weights in multimodal Mixture-of-Experts, significantly boosting model generalization without additional training.
+- [C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing](https://arxiv.org/abs/2504.07964), Z. Li, **Z. Li**, T. Zhou, **COLM'25**
 
 - [SIMPLE: Specialized Model-Sample Matching for Domain Generalization](https://seqml.github.io/simple/), **Z. Li**, K. Ren, X. Jiang, Y. Shen, H. Zhang, D. Li, **ICLR'23**
   - An alternative direction for domain generalization via efficiently leveraging a pool of pretrained models without fine-tuning.
