@@ -69,5 +69,10 @@ I am a second-year Ph.D. Student in Computer Science at the University of Maryla
 - *2015 - 2019*, Minor in Finance, ShanghaiTech University.
 
 # 💻 Internships
+- *2025.05 - 2025.08*, Research Intern, Snowflake, Bellevue, WA.
 - *2022.06 - 2022.12*, Research Assistant, AI/ML group, Microsoft Research Asia, Shanghai, China.
 - *2021.06 - 2022.03*, Research Intern, AI/ML group, Microsoft Research Asia, Shanghai, China.
+
+# 🐱 Services
+- Reviewer: CIKM 2023, NeurIPS 2025
+- Program Committee: AAAI 2026
