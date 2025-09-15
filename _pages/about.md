@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. Student in Computer Science at the University of Maryland advised by [Prof. Tianyi Zhou](https://tianyizhou.github.io/cv/). My research focuses on pioneering efficient machine learning methods, encompassing computer vision, natural language processing, and multi-modality. I am particularly passionate about developing adaptive and personalized machine learning models. Before pursuing my Ph.D., I earned my M.S. and B.Eng in Computer Science from ShanghaiTech University, where I delved into research areas such as mixture of experts, domain generalization, and ensemble learning. 
+I am a third-year Ph.D. Student in Computer Science at the University of Maryland advised by [Prof. Tianyi Zhou](https://tianyizhou.github.io/cv/). My research focuses on pioneering efficient machine learning methods, encompassing computer vision, natural language processing, and multi-modality. I am particularly passionate about developing adaptive and personalized machine learning models. Before pursuing my Ph.D., I earned my M.S. and B.Eng in Computer Science from ShanghaiTech University, where I delved into research areas such as mixture of experts, domain generalization, and ensemble learning. 
 
 
 # 🔥 News
@@ -74,5 +74,5 @@ I am a second-year Ph.D. Student in Computer Science at the University of Maryla
 - *2021.06 - 2022.03*, Research Intern, AI/ML group, Microsoft Research Asia, Shanghai, China.
 
 # 🐱 Services
-- Reviewer: CIKM 2023, NeurIPS 2025
+- Reviewer: CIKM 2023, NeurIPS 2025, ICLR 2026
 - Program Committee: AAAI 2026
