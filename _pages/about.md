@@ -33,6 +33,10 @@ I am a third-year Ph.D. Student in Computer Science at the University of Marylan
 
 # 📝 Publications 
 
+- [Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test](https://openreview.net/pdf?id=blfwRondjY), **Z. Li**, C. Fan, T. Zhou, **ICLR'26**
+
+- [Routing Manifold Alignment Improves Generalization of Mixture-of-Experts LLMs](https://openreview.net/pdf?id=3lskwxB653), Z. Li, **Z. Li**, T. Zhou, **ICLR'26**
+
 - [Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free](https://arxiv.org/abs/2410.10814), **Z. Li**, T. Zhou, **ICLR'25 (Oral, 1.8%)**
   - Mixture-of-Experts (MoE) language models can serve as powerful, training-free embedding generators by leveraging the complementarity of routing weights and hidden states, achieving superior performance across diverse embedding tasks.
 
