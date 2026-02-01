@@ -21,7 +21,7 @@ I am a third-year Ph.D. Student in Computer Science at the University of Marylan
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 **Two papers have been accepted by ICLR 2025, including one first-author paper**.
+- *2026.01*: &nbsp;🎉🎉 **Two papers have been accepted by ICLR 2026, including one first-author paper**.
 - *2025.07*: &nbsp;🎉🎉 **One paper has been accepted to the COLM 2025**.
 - *2025.05*: &nbsp;🎉🎉 **One paper has been accepted to the ICML 2025**.
 - *2025.02*: &nbsp;**New on arXiv**: "[R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts](https://arxiv.org/pdf/2502.20395)" is now available on arXiv.
