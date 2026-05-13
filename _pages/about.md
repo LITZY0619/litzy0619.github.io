@@ -21,6 +21,7 @@ I am a third-year Ph.D. Student in Computer Science at the University of Marylan
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 **One first-author paper has been accepted to the ICML 2025**.
 - *2026.01*: &nbsp;🎉🎉 **Two papers have been accepted by ICLR 2026, including one first-author paper**.
 - *2025.07*: &nbsp;🎉🎉 **One paper has been accepted to the COLM 2025**.
 - *2025.05*: &nbsp;🎉🎉 **One paper has been accepted to the ICML 2025**.
@@ -32,6 +33,8 @@ I am a third-year Ph.D. Student in Computer Science at the University of Marylan
 - *2023.08*: &nbsp;**Entering University of Maryland (UMD)** as a Ph.D. Candidate in Computer Science.
 
 # 📝 Publications 
+
+- Skip a Layer or Loop It? Learning Program-of-Layers in LLMs, **Z. Li**, Y. Li, T. Zhou, **ICML'26 (spotlight)**
 
 - [Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test](https://openreview.net/pdf?id=blfwRondjY), **Z. Li**, C. Fan, T. Zhou, **ICLR'26**
 
