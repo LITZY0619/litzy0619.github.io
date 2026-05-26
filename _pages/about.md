@@ -34,7 +34,7 @@ I am a third-year Ph.D. Student in Computer Science at the University of Marylan
 
 # 📝 Publications 
 
-- Skip a Layer or Loop It? Learning Program-of-Layers in LLMs, **Z. Li**, Y. Li, T. Zhou, **ICML'26 (spotlight, 2.2%)**
+- Skip a Layer or Loop It? Learning Program-of-Layers in LLMs, **Z. Li**, Y. Li, T. Zhou, **ICML'26 (oral, 2.2%)**
 
 - [Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test](https://openreview.net/pdf?id=blfwRondjY), **Z. Li**, C. Fan, T. Zhou, **ICLR'26**
 
