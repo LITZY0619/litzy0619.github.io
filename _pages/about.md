@@ -21,6 +21,7 @@ I am a third-year Ph.D. Student in Computer Science at the University of Marylan
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 **One paper has been accepted to the COLM 2026**.
 - *2026.05*: &nbsp;🎉🎉 **One first-author paper was accepted to ICML 2025 as an Oral Presentation (top 0.7%).**
 - *2026.01*: &nbsp;🎉🎉 **Two papers have been accepted by ICLR 2026, including one first-author paper**.
 - *2025.07*: &nbsp;🎉🎉 **One paper has been accepted to the COLM 2025**.
