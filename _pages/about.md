@@ -21,7 +21,7 @@ I am a third-year Ph.D. Student in Computer Science at the University of Marylan
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 **One first-author paper has been accepted to the ICML 2025**.
+- *2026.05*: &nbsp;🎉🎉 **One first-author paper was accepted to ICML 2025 as an Oral Presentation (top 0.7%).**
 - *2026.01*: &nbsp;🎉🎉 **Two papers have been accepted by ICLR 2026, including one first-author paper**.
 - *2025.07*: &nbsp;🎉🎉 **One paper has been accepted to the COLM 2025**.
 - *2025.05*: &nbsp;🎉🎉 **One paper has been accepted to the ICML 2025**.
@@ -32,38 +32,24 @@ I am a third-year Ph.D. Student in Computer Science at the University of Marylan
 - *2024.03*: &nbsp;**New on arXiv**: "Many-Objective Multi-Solution Transport" is now available on arXiv.
 - *2023.08*: &nbsp;**Entering University of Maryland (UMD)** as a Ph.D. Candidate in Computer Science.
 
-# 📝 Publications 
+# 📝 Publications
 
-- Skip a Layer or Loop It? Learning Program-of-Layers in LLMs, **Z. Li**, Y. Li, T. Zhou, **ICML'26 (oral, 0.7%)**
+### 2026
+- [Skip a Layer or Loop It? Learning Program-of-Layers in LLMs](https://arxiv.org/abs/2606.06574), **Z. Li**, Y. Li, T. Zhou, **ICML 2026 Oral Presentation (top 0.7%)**
+- Routing Entropy: A Hidden Self-Verifier for Free in Mixture-of-Experts LLMs, Z. Li, **Z. Li**, T. Zhou, **COLM 2026**
+- [Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test](https://openreview.net/pdf?id=blfwRondjY), **Z. Li**, C. Fan, T. Zhou, **ICLR 2026**
+- [Routing Manifold Alignment Improves Generalization of Mixture-of-Experts LLMs](https://openreview.net/pdf?id=3lskwxB653), Z. Li, **Z. Li**, T. Zhou, **ICLR 2026**
 
-- [Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test](https://openreview.net/pdf?id=blfwRondjY), **Z. Li**, C. Fan, T. Zhou, **ICLR'26**
+### 2025
+- [Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free](https://arxiv.org/abs/2410.10814), **Z. Li**, T. Zhou, **ICLR 2025 Oral Presentation (top 1.8%)**
+- [R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts](https://arxiv.org/pdf/2502.20395), Z. Li, **Z. Li**, T. Zhou, **ICML 2025**
+- [C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing](https://arxiv.org/abs/2504.07964), Z. Li, **Z. Li**, T. Zhou, **COLM 2025**
+- [Sparser Mixture-of-Adapters with Cross-Layer Generalization](https://openreview.net/pdf?id=PFGTa6OVBI), **Z. Li**, T. Zhou, **NAACL 2025**
+- [Many-Objective Multi-Solution Transport](https://arxiv.org/abs/2403.04099), **Z. Li**, T. Li, V. Smith, J. Bilmes, T. Zhou, **ICLR 2025**
 
-- [Routing Manifold Alignment Improves Generalization of Mixture-of-Experts LLMs](https://openreview.net/pdf?id=3lskwxB653), Z. Li, **Z. Li**, T. Zhou, **ICLR'26**
-
-- [Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free](https://arxiv.org/abs/2410.10814), **Z. Li**, T. Zhou, **ICLR'25 (Oral, 1.8%)**
-  - Mixture-of-Experts (MoE) language models can serve as powerful, training-free embedding generators by leveraging the complementarity of routing weights and hidden states, achieving superior performance across diverse embedding tasks.
-
-- [Many-Objective Multi-Solution Transport](https://arxiv.org/abs/2403.04099), **Z. Li**, T. Li, V. Smith, J. Bilmes, T. Zhou, **ICLR'25**
-  - Explores a framework that finds multiple diverse solutions in the Pareto front of many objectives.
- 
-- [Sparser Mixture-of-Adapters with Cross-Layer Generalization](https://openreview.net/pdf?id=PFGTa6OVBI), **Z. Li**, T. Zhou, **NAACL'25**
-  - Improves efficiency and generalization of large language models by using a unified adapter pool shared across layers.
- 
-- [R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts](https://arxiv.org/pdf/2502.20395), Z. Li, **Z. Li**, T. Zhou, **ICML'25**
-  - Proposes R2-T2, a test-time re-routing method that dynamically optimizes routing weights in multimodal Mixture-of-Experts, significantly boosting model generalization without additional training.
-- [C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing](https://arxiv.org/abs/2504.07964), Z. Li, **Z. Li**, T. Zhou, **COLM'25**
-
-- [SIMPLE: Specialized Model-Sample Matching for Domain Generalization](https://seqml.github.io/simple/), **Z. Li**, K. Ren, X. Jiang, Y. Shen, H. Zhang, D. Li, **ICLR'23**
-  - An alternative direction for domain generalization via efficiently leveraging a pool of pretrained models without fine-tuning.
-
-- [Towards Inference Efficient Deep Ensemble Learning](https://seqml.github.io/irene/), **Z. Li**, K. Ren, Y. Yang, X. Jiang, Y. Yang, D. Li, **AAAI'23**
-  - An inference efficient ensemble learning method to simultaneously optimize for both model effectiveness and efficiency in ensemble learning.
- 
-- [Protecting the Future: Neonatal Seizure Detection with Spatial-Temporal Modeling](https://seqml.github.io/statenet/), **Z. Li** $^\dagger$, Y. Fang $^\dagger$, Y. Li, K. Ren, Y. Wang, X. Luo, J. Duan, C. Huang, D. Li, L. Qiu, **SMC'23**
-  - Utilizing spatial-temporal modeling for neonatal seizure detection.
-
-- [Why does the president tweet this? Discovering reasons and contexts for politicians’ tweets from news articles](https://www.sciencedirect.com/science/article/pii/S0306457322000218), **Z. Li**, H. Hu, H. Wang, C. Lu, H. Zhang, K. Zhang, **Information Processing & Management 2022**
-  - A tweet interpretation framework which automatically extracts focal tweet clauses and tracks previous news to discover the event-specific reasons that trigger politicians to tweet them.
+### 2023
+- [SIMPLE: Specialized Model-Sample Matching for Domain Generalization](https://seqml.github.io/simple/), **Z. Li**, K. Ren, X. Jiang, Y. Shen, H. Zhang, D. Li, **ICLR 2023**
+- [Towards Inference Efficient Deep Ensemble Learning](https://seqml.github.io/irene/), **Z. Li**, K. Ren, Y. Yang, X. Jiang, Y. Yang, D. Li, **AAAI 2023**
 
 
 # 🎖 Honors and Awards
