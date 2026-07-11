@@ -28,7 +28,7 @@ I am a third-year Ph.D. Student in Computer Science at the University of Marylan
 - *2025.05*: &nbsp;🎉🎉 **One paper has been accepted to the ICML 2025**.
 - *2025.02*: &nbsp;**New on arXiv**: "[R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts](https://arxiv.org/pdf/2502.20395)" is now available on arXiv.
 - *2025.01*: &nbsp;🎉🎉 **One first-author paper has been accepted to the NAACL 2025 Main Conference**.
-- *2025.01*: &nbsp;🎉🎉 **Two first-author papers have been accepted by ICLR 2025, including one <span style="color:#C44E52;">Oral (1.8%)</span>**.
+- *2025.01*: &nbsp;🎉🎉 **Two first-author papers have been accepted by ICLR 2025, including one <span style="color:#C44E52;">Oral</span> (1.8%)**.
 - *2024.10*: &nbsp;**New on arXiv**: "Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free" is now available on arXiv.
 - *2024.03*: &nbsp;**New on arXiv**: "Many-Objective Multi-Solution Transport" is now available on arXiv.
 - *2023.08*: &nbsp;**Entering University of Maryland (UMD)** as a Ph.D. Candidate in Computer Science.
